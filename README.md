@@ -1,6 +1,6 @@
 # 🎮 Tic-Tac-Toe Game in Java
 
-A *simple console-based Tic-Tac-Toe game* developed in Java for two players. Players take turns placing their symbol (*X* or *O) on a 3×3 board. The first player to align three of their symbols **vertically, **horizontally, or **diagonally* wins. If the board fills without a winner, the game ends in a *draw*.
+A *simple console-based Tic-Tac-Toe game* developed in Java for two players. Players take turns placing their symbol (*X* or *O*) on a 3×3 board. The first player to align three of their symbols **vertically**, **horizontally**, or **diagonally** wins. If the board fills without a winner, the game ends in a *draw*.
 
 ---
 
